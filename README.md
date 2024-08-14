@@ -23,3 +23,4 @@ Slides and links for "Quarto for Knowledge Management" talk at posit::conf(2024)
 
 - Template for adding static encryption to a quarto website via `staticrypt`: <https://github.com/robjhyndman/quarto-password>
 - List of Quarto Extensions: <https://quarto.org/docs/extensions/>
+- Quarto Manuscripts: <https://quarto.org/docs/manuscripts/>
