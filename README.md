@@ -18,3 +18,8 @@ Slides and links for "Quarto for Knowledge Management" talk at posit::conf(2024)
         - [Tutorial for creating masonry-style image gallery](https://www.cynthiahqy.com/posts/masonry-gallery/)
 - Private (to Public) Experiments
     - [Tutorial for Multi-Format CV](https://www.cynthiahqy.com/posts/cv-html-pdf/)
+ 
+### Bonus links
+
+- Template for adding static encryption to a quarto website via `staticrypt`: <https://github.com/robjhyndman/quarto-password>
+- List of Quarto Extensions: <https://quarto.org/docs/extensions/>
