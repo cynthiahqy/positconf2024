@@ -1,40 +1,20 @@
-# Notes on giving Demo Talks
+## Quarto for Knowledge Management
 
-## Core Principles
-- Code is MAGNIFIED
-- Make it DIGESTIBLE
-    - LADDER the outputs
-- Be a GUIDE
-    - declarative vs. procedural knowledge
+Slides and links for "Quarto for Knowledge Management" talk at posit::conf(2024)
 
-## Reminders
+### Resources by yours truly
 
-- Tell a story / sales pitch
-- Never demo live
-- Narrower is better
-- Use supplemental sites (e.g. GitHub)
-
-## Questions
-
-- Pick one of:
-    - Black box: Problem & Solution
-    - Deep dive: How it works
-- Templates?
-    - 36pt font minimum
-- Don't assume pointer;
-    - no fixed number of slides
-- How to present on platform building? / multiple pieces
-    - big picture -> zoom in -> zoom out
-
-# Notes from Speaker Orientation
-
-- Why should your audience care?
-- What call to action do you want to leave the audience with?
-
-## Governing Idea
-
-By doing X1, X2, X3, - clear, unique & actionable
-You achieve Y effect, -- logical result
-For Z impact. -- cause & effect/big picture impact
-
-Context, Action, Reaction
+- Quarto Websites
+    - [Template for conference scrapbook](https://github.com/cynthiahqy/quarto-conf-scrapbook)
+    - [posit::conf(2023) example](https://cynthiahqy.quarto.pub/positconf2023-scrapbook/)
+    - [Template for internal wiki](https://github.com/cynthiahqy/quarto-wiki-template) based on an early version of my PhD Log
+- Quarto Computations & Extensions:
+    - Interactive calendar: [ggtilecal](https://github.com/cynthiahqy/ggtilecal/tree/main) package
+    - README for research graphics:
+        - [Tutorial for using R code generate markdown image links in a Quarto document](https://www.cynthiahqy.com/posts/layout-folder-images/)
+        - [Tutorial for organising my research graphics](https://www.cynthiahqy.com/posts/reusing-images-with-git-submodules/)
+    - Extensions:
+        - [Explainer on types of Quarto extensions](https://www.cynthiahqy.com/posts/quarto-extensions-explainer/)
+        - [Tutorial for creating masonry-style image gallery](https://www.cynthiahqy.com/posts/masonry-gallery/)
+- Private (to Public) Experiments
+    - [Tutorial for Multi-Format CV](https://www.cynthiahqy.com/posts/cv-html-pdf/)
