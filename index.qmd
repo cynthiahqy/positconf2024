@@ -1,7 +1,8 @@
 ---
-title: "Scalable self-paced e-learning of statistical programming with fine-grained feedback and assessment"
-talk-venue: posit::conf(2024)
-talk-location: Seattle, Washington (USA)
+title: "Quarto for Knowledge Management"
+talk:
+  venue: posit::conf(2024)
+  location: Seattle, Washington (USA)
 # talk-recording: insert URL
 # type: submitted
 slides-pdf: https://github.com/cynthiahqy/positconf2024/raw/96581bdf3702cb967f00909a6cbf478a2afb6894/slides.pdf
